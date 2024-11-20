@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@crxjs/vite-plugin": "^1.0.14",
+    "pre-commit": "^1.2.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
